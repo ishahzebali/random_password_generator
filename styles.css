@@ -1,0 +1,72 @@
+body {
+    font-family: "Karla", sans-serif;
+    background-color: black;
+}
+
+#container {
+    margin: 30px;
+    background-color: #5B21B6;
+    padding: 40px;
+    color: #EDE9FE;
+    border-radius: 20px;
+    width: 400px;
+    margin: 100px auto;
+}
+
+#pass-gen-btn {
+    background-color: #A78BFA;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: none;
+    color: #F5F3FF;
+    margin-top: 40px;
+    height: 40px;
+    width: 165px;
+    font-weight: bold;
+}
+
+#title-1 {
+    margin-bottom: 0px;
+    color: #1c0047;
+}
+#title-2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #8B5CF6;
+}
+
+#description {
+    margin: 0px;
+}
+
+#passwords-gen {
+    margin-top: 20px;
+    border-top: 1px solid #7C3AED;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #EDE9FE;
+    font-weight: bold;
+}
+
+#pass-1 {
+    background-color: #A78BFA;
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px 10px;
+}
+#pass-2 {
+    background-color: #A78BFA;
+    width: 200px;
+    height: 20px;
+    margin-left: 40px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px 10px;
+}
